@@ -54,17 +54,14 @@ async function renderHome(): Promise<void> {
     </div>
     <div class="features">
       <div class="feature">
-        <span class="feat-icon">🚚</span>
         <strong>Швидка доставка</strong>
         <p>Відправляємо замовлення в день оплати по всій країні.</p>
       </div>
       <div class="feature">
-        <span class="feat-icon">🛡️</span>
         <strong>Гарантія якості</strong>
         <p>Тільки сертифіковані товари від офіційних виробників.</p>
       </div>
       <div class="feature">
-        <span class="feat-icon">💸</span>
         <strong>Найкраща ціна</strong>
         <p>Ми пропонуємо конкурентні ціни без зайвих націнок.</p>
       </div>
@@ -107,7 +104,6 @@ async function renderCatalog(): Promise<void> {
                 <h3>Акція "Specials"</h3>
                 <p>Натисніть, щоб відкрити випадкову категорію зі знижкою!</p>
             </div>
-            <button class="btn-specials" id="btn-random-cat">Мені пощастить ✨</button>
         </div>
       </section>
     `;
