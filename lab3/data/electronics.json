@@ -1,0 +1,40 @@
+{
+  "categoryName": "Електроніка",
+  "items": [
+    {
+      "id": 101,
+      "name": "Бездротові навушники ProSound X1",
+      "shortname": "prosound-x1",
+      "description": "Навушники з активним шумопоглинанням, 30 годин автономної роботи та кристально чистим звуком.",
+      "price": 2499
+    },
+    {
+      "id": 102,
+      "name": "Смарт-годинник FitTrack Ultra",
+      "shortname": "fittrack-ultra",
+      "description": "Lorem ipsum dolor sit amet. Відстеження пульсу, сну, кроків та GPS-навігація.",
+      "price": 3999
+    },
+    {
+      "id": 103,
+      "name": "Портативна колонка BoomBox Mini",
+      "shortname": "boombox-mini",
+      "description": "Водонепроникна колонка з 360° звуком та 20 годинами роботи від батареї.",
+      "price": 1299
+    },
+    {
+      "id": 104,
+      "name": "Павербанк PowerCore 20000",
+      "shortname": "powercore-20k",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ємність 20000 мАг, підтримка швидкої зарядки 65W.",
+      "price": 899
+    },
+    {
+      "id": 105,
+      "name": "Веб-камера StreamPro 4K",
+      "shortname": "streampro-4k",
+      "description": "Камера 4K з автофокусом, вбудованим мікрофоном та кільцевим підсвічуванням для стримів і відеодзвінків.",
+      "price": 1799
+    }
+  ]
+}

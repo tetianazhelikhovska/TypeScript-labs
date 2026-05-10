@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Електроніка",
+    "shortname": "electronics",
+    "notes": "Найновіші гаджети та електронні пристрої провідних брендів."
+  },
+  {
+    "id": 2,
+    "name": "Одяг",
+    "shortname": "clothing",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 3,
+    "name": "Книги",
+    "shortname": "books",
+    "notes": "Художня та наукова література українською та іноземними мовами."
+  },
+  {
+    "id": 4,
+    "name": "Спорт",
+    "shortname": "sport",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel turpis nec metus."
+  }
+]

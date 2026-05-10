@@ -1,0 +1,40 @@
+{
+  "categoryName": "Книги",
+  "items": [
+    {
+      "id": 301,
+      "name": "«Кобзар» — Тарас Шевченко",
+      "shortname": "kobzar",
+      "description": "Збірка поетичних творів видатного українського поета, символу незламності народного духу.",
+      "price": 199
+    },
+    {
+      "id": 302,
+      "name": "«Атомні звички» — Джеймс Клір",
+      "shortname": "atomic-habits",
+      "description": "Lorem ipsum dolor sit amet. Науково обґрунтований метод формування корисних звичок та позбавлення від шкідливих.",
+      "price": 349
+    },
+    {
+      "id": 303,
+      "name": "«Майстер і Маргарита» — М. Булгаков",
+      "shortname": "master-margarita",
+      "description": "Культовий роман, що поєднує сатиру радянського суспільства з містичними елементами та вічними питаннями добра і зла.",
+      "price": 289
+    },
+    {
+      "id": 304,
+      "name": "«Clean Code» — Robert Martin",
+      "shortname": "clean-code",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Настільна книга кожного розробника про написання якісного коду.",
+      "price": 599
+    },
+    {
+      "id": 305,
+      "name": "«Sapiens» — Юваль Ной Харарі",
+      "shortname": "sapiens",
+      "description": "Захоплива подорож крізь всю історію людства — від кам'яного віку до сучасної цивілізації.",
+      "price": 429
+    }
+  ]
+}

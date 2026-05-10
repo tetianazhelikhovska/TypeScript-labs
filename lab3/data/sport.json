@@ -1,0 +1,47 @@
+{
+  "categoryName": "Спорт",
+  "items": [
+    {
+      "id": 401,
+      "name": "Гантелі наборні 2×10 кг",
+      "shortname": "dumbbells-10kg",
+      "description": "Хромовані гантелі з гумовим покриттям дисків. Ідеально для домашніх тренувань.",
+      "price": 1499
+    },
+    {
+      "id": 402,
+      "name": "Йога-килимок EcoBalance",
+      "shortname": "yoga-mat",
+      "description": "Lorem ipsum dolor sit amet. Нековзний килимок із натурального каучуку товщиною 6 мм.",
+      "price": 649
+    },
+    {
+      "id": 403,
+      "name": "Велосипедний шолом SafeRide Pro",
+      "shortname": "bike-helmet",
+      "description": "Сертифікований шолом з 21 вентиляційним отвором та регульованим кріпленням.",
+      "price": 999
+    },
+    {
+      "id": 404,
+      "name": "Скакалка Speed Rope Carbon",
+      "shortname": "speed-rope",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Карбонові ручки, регульована довжина, підшипники для швидкості.",
+      "price": 349
+    },
+    {
+      "id": 405,
+      "name": "Пляшка для води FlowBottle 750мл",
+      "shortname": "flow-bottle",
+      "description": "Термопляшка з нержавіючої сталі. Зберігає холод 24 год і тепло 12 год.",
+      "price": 449
+    },
+    {
+      "id": 406,
+      "name": "Пояс для важкої атлетики PowerBelt",
+      "shortname": "power-belt",
+      "description": "Шкіряний пояс 10 мм для підтримки поперека при виконанні важких вправ.",
+      "price": 879
+    }
+  ]
+}

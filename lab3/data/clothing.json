@@ -1,0 +1,47 @@
+{
+  "categoryName": "Одяг",
+  "items": [
+    {
+      "id": 201,
+      "name": "Худі Urban Oversized",
+      "shortname": "urban-hoodie",
+      "description": "М'яке оверсайз-худі з органічної бавовни. Доступне у 8 кольорах.",
+      "price": 799
+    },
+    {
+      "id": 202,
+      "name": "Джинси SlimFit Classic",
+      "shortname": "slimfit-jeans",
+      "description": "Lorem ipsum dolor sit amet. Класичні прямі джинси з еластичною тканиною для максимального комфорту.",
+      "price": 1199
+    },
+    {
+      "id": 203,
+      "name": "Зимова куртка ArcticShield",
+      "shortname": "arctic-jacket",
+      "description": "Тепла куртка з мембранної тканини, водовідштовхувальним покриттям та знімним капюшоном.",
+      "price": 3499
+    },
+    {
+      "id": 204,
+      "name": "Кросівки RunFast Pro",
+      "shortname": "runfast-pro",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Легкі бігові кросівки з амортизуючою підошвою.",
+      "price": 2199
+    },
+    {
+      "id": 205,
+      "name": "Шарф Merino Wool",
+      "shortname": "merino-scarf",
+      "description": "Натуральний шарф з меринової вовни, м'який та гіпоалергенний.",
+      "price": 549
+    },
+    {
+      "id": 206,
+      "name": "Рюкзак CityPack 30L",
+      "shortname": "citypack-30l",
+      "description": "Ергономічний міський рюкзак з відсіком для ноутбука 15.6\" та USB-портом для зарядки.",
+      "price": 1599
+    }
+  ]
+}
