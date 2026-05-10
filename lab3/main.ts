@@ -54,6 +54,7 @@ async function renderHome(): Promise<void> {
     </div>
     <div class="features">
       <div class="feature">
+    
         <strong>Швидка доставка</strong>
         <p>Відправляємо замовлення в день оплати по всій країні.</p>
       </div>
@@ -104,6 +105,7 @@ async function renderCatalog(): Promise<void> {
                 <h3>Акція "Specials"</h3>
                 <p>Натисніть, щоб відкрити випадкову категорію зі знижкою!</p>
             </div>
+            <button class="btn-specials" id="btn-random-cat">Мені пощастить ✨</button>
         </div>
       </section>
     `;
